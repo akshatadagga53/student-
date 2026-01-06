@@ -1,5 +1,5 @@
 import pytest
-from student_detils import calculate_grade, main   # <-- replace student_grade with your filename
+from student_grade import calculate_grade, main   # <-- replace student_grade with your filename
 
 def test_calculate_grade_boundaries():
     # Grade S
